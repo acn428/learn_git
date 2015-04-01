@@ -3,3 +3,5 @@ to test git.
 
 add text.
 add two.
+add three.
+add four.
